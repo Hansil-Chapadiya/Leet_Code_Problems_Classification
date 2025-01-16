@@ -21,5 +21,13 @@ Ensure you have Python installed. If not, download it from [Python.org](https://
 
 ### 2. Dependencies
 Install the required Python libraries:
-```bash
-pip install requests
+
+
+## Example Output
+- Input
+- Problem Numbers: [6, 26, 128, 179, 214]
+  Problem 6: Easy
+  Problem 26: Medium
+  Problem 128: Hard
+  Problem 179: Medium
+  Problem 214: Hard
